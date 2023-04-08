@@ -57,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				23FF9FDC29E2113200DD8900 /* AppDelegate.swift */,
+				23FF9FF029E2114900DD8900 /* New Group */,
 				23FF9FDE29E2113200DD8900 /* SceneDelegate.swift */,
 				23FF9FE029E2113200DD8900 /* ViewController.swift */,
 				23FF9FE229E2113200DD8900 /* Main.storyboard */,
@@ -65,6 +66,13 @@
 				23FF9FEA29E2113300DD8900 /* Info.plist */,
 			);
 			path = NewsAPI;
+			sourceTree = "<group>";
+		};
+		23FF9FF029E2114900DD8900 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
